@@ -4,7 +4,6 @@
   <artifactId>cicd-calculator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <packaging>war</packaging>
 <!-- test change -->
 <!-- edited on Github -->
 </project>
